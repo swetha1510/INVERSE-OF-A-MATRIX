@@ -9,9 +9,20 @@ To write a python program to find the inverse of a matrix
 ## Algorithm:
 
 ### Step1 : 
-### Step 2: 
-### Step 3: 
-### Step 4: 
+
+Import the library numoy using the import command.
+
+### Step 2:
+
+Assigning a matrix to a varibale.
+
+### Step 3:
+
+Using the np.linalg.inv(),we can find the inverse of the given matrix.
+
+### Step 4:
+
+Print the inverse of the matrix and end the program.
 
 ## Program:
 ```
